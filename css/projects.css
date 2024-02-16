@@ -258,6 +258,10 @@ header .container nav a:hover{
     font-size: 2em;
 }
 
+.contact a:hover {
+    color: var(--second-color;);
+}
+
 @media (max-width:600px) {
 
     .contacts a{
