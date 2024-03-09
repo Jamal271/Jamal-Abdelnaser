@@ -46,6 +46,7 @@ body {
     background-image: url(../images/background1.jpg);
     background-size: cover;
     background-repeat: no;
+    background-position:fixed;
 }
 
 html {
